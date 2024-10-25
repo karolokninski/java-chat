@@ -1,4 +1,4 @@
-# java-online-chat
+# java-chat
 
 ## Compile the project
 mvn clean install
